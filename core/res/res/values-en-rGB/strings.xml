@@ -1765,9 +1765,11 @@
     <string name="etws_primary_default_message_test" msgid="2709597093560037455">"Emergency messages test"</string>
     <string name="notification_reply_button_accessibility" msgid="3621714652387814344">"Reply"</string>
     <string name="etws_primary_default_message_others" msgid="6293148756130398971"></string>
-    <string name="mmcc_authentication_reject" msgid="7729819349669603406">"SIM not allowed"</string>
+    <string name="mmcc_authentication_reject" msgid="7729819349669603406">"SIM not allowed"</string>S
     <string name="mmcc_imsi_unknown_in_hlr" msgid="6321202257374418726">"SIM not provisioned"</string>
     <string name="mmcc_illegal_ms" msgid="2769452751852211112">"SIM not allowed"</string>
     <string name="mmcc_illegal_me" msgid="4438696681169345015">"Phone not allowed"</string>
     <string name="popup_window_default_title" msgid="4874318849712115433">"Pop-Up Window"</string>
+    <string name="permlab_fakePackageSignature" msgid="7311293627406576512">"Spoof package signature"</string>
+    <string name="permdesc_fakePackageSignature" msgid="8519628733854254374">"Allows the app to pretend to be a different app. Malicious applications might be able to use this to access private application data. Grant this permission with caution only!"</string>
 </resources>
